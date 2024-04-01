@@ -1,0 +1,46 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: gold;
+    color: grey;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+.category {
+    margin-bottom: 40px;
+}
+
+h2 {
+    color: grey;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.price {
+    float: right;
+    color: #E64A19;
+}
+footer {
+    background-color: #E64A19;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
